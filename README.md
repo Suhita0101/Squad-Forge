@@ -20,6 +20,34 @@ Squad Forge is a dynamic web app that allows users to create, customize, and man
 3. CREATE MEMBER:
    <img width="1470" height="798" alt="Screenshot 2025-10-12 at 6 19 24 PM" src="https://github.com/user-attachments/assets/b5e6d614-8fa7-420a-98d1-44ceef55e68a" />
    
+🧰 Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Build Tool: Vite
+- Runtime: Node.js
+
+🧭 Getting Started
+Follow the steps below to run this project locally on your machine.
+
+1️⃣ Download the Project:
+- Click the green “Code” button on GitHub and select “Download ZIP”, then unzip the file.
+
+2️⃣ Open the Project Folder in Terminal
+- cd hobbyhub
+
+3️⃣ Install Dependencies
+- Make sure Node.js and npm are installed:
+node -v
+npm -v
+- If you see “command not found”, download Node.js and install it.
+- Then install the required dependencies:
+npm install
+
+4️⃣ Start the Development Server
+npm run dev
+- Once the server starts, you’ll see a local development URL like:
+http://localhost:5173/
+- 🖥 Mac users: Cmd + click the link or copy and paste it into your browser.
+- 💻 Windows users: Ctrl + click the link or copy and paste it into your browser.
 
 ## License
 
