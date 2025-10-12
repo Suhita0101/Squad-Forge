@@ -14,8 +14,12 @@ Squad Forge is a dynamic web app that allows users to create, customize, and man
 1. HOME PAGE:
    <img width="1470" height="795" alt="Screenshot 2025-10-12 at 6 18 49 PM" src="https://github.com/user-attachments/assets/8cd263d4-cc84-4358-b24e-642da249646f" />
 
-3. VIEW TEAM:
-4. CREATE MEMBER:
+2. VIEW TEAM:
+   <img width="1470" height="796" alt="Screenshot 2025-10-12 at 6 19 05 PM" src="https://github.com/user-attachments/assets/68338b9f-658c-4ee0-b0ab-fc3b494fab9f" />
+   
+3. CREATE MEMBER:
+   <img width="1470" height="798" alt="Screenshot 2025-10-12 at 6 19 24 PM" src="https://github.com/user-attachments/assets/b5e6d614-8fa7-420a-98d1-44ceef55e68a" />
+   
 
 ## License
 
