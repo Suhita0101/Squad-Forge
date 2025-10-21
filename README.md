@@ -32,7 +32,7 @@ Follow the steps below to run this project locally on your machine.
 - Click the green “Code” button on GitHub and select “Download ZIP”, then unzip the file.
 
 2️⃣ Open the Project Folder in Terminal
-- cd hobbyhub
+- cd project_folder_name
 
 3️⃣ Install Dependencies
 - Make sure Node.js and npm are installed:
